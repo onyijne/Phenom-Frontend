@@ -9,6 +9,7 @@
         "severity": "warning"
       }
     ],
-    "color-hex-length": "short"
+    "color-hex-length": "short",
+    "custom-property-empty-line-before": "never"
   }
 }

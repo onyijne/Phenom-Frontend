@@ -1,0 +1,7 @@
+{
+  "name": "Phenom",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
